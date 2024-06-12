@@ -10,7 +10,7 @@ body {
     display: grid;
     place-items: center;
     background-image: url('brainyexperts-clean-image.jpg');
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
